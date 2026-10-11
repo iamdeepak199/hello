@@ -1,0 +1,33 @@
+=== MISMO / SCORES DATABASE EXTRACT ===
+
+LoanId: 
+ApplicationNumber: 
+CurrentFileNumber: file number being requested goes here
+PreviousFileNumber: 
+Hard_Soft_Indicator: Hard
+ApplicationID: 
+NumberOfBorrowers: 0
+LoanNumber: 
+GroupCode: 
+ICE_InstanceID: 
+
+--- PRIMARY BORROWER SCORES ---
+Borr_EQ_FICO_Classic: 
+Borr_EX_FICO_Classic: 
+Borr_TU_FICO_Classic: 
+Borr_EQ_FICO_10T: 
+Borr_EX_FICO_10T: 
+Borr_TU_FICO_10T: 
+Borr_EQ_VANTAGE_4.0: 
+Borr_EX_VANTAGE_4.0: 
+Borr_TU_VANTAGE_4.0: 
+
+--- CO-BORROWER SCORES ---
+CoBorr_EQ_FICO_Classic: 
+CoBorr_EX_FICO_Classic: 
+CoBorr_TU_FICO_Classic: 
+CoBorr_EQ_FICO_10T: 
+CoBorr_EX_FICO_10T: 
+CoBorr_TU_FICO_10T: 
+CoBorr_EQ_VANTAGE_4.0: 
+CoBorr_EX_VANTAGE_4.0: 
